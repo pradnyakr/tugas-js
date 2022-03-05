@@ -120,7 +120,7 @@ switch(minuman) {
  * Cetak Total pembelian anda ditambah variable angka pembelian
  */
 
-// PSEUDOCODE
+// PSEUDOCODE 
 /**
  * STORE weight WITH ANY NUMBER
  * 
