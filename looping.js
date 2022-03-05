@@ -13,6 +13,7 @@ console.log("Results\n"  + hasil + "\n")
 
 console.log("=================================\n")
 
+
 var n = 5; 
 var temp = "";
 for(var i = 0; i < n; i++){
@@ -44,4 +45,4 @@ for(var i = 0; i < input; i++){
     console.log(temp)
     temp = ""
 }
-console.log("\n=================================\n") 
+console.log("\n=================================\n")
