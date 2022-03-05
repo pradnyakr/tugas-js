@@ -44,4 +44,4 @@ for(var i = 0; i < input; i++){
     console.log(temp)
     temp = ""
 }
-console.log("\n=================================\n")
+console.log("\n=================================\n") 
