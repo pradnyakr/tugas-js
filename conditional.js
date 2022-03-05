@@ -79,7 +79,7 @@ console.log(text + "Beginner \n")
  *  DISPLAY "Kamu belum memilih minuman!""
  * END IF
  */
-//========================================================================================
+//=======================================================================================
 var minuman = "sweet tea";
 switch(minuman) {
     case "Sweet Tea": case "sweet tea":
@@ -101,7 +101,7 @@ switch(minuman) {
       console.log("Kamu belum memilih minuman! \n")
   }
 
-//========================================================================================
+//=======================================================================================
 // No 3
 
 /**
@@ -149,7 +149,7 @@ switch(minuman) {
  *  DISPLAY "Belum memakai kupon atau Belum ada total pembelian yang kamu keluarkan!"
  * END IF
  */
-//========================================================================================
+//=======================================================================================
   var coupon = "FreeOngkir";
   var pembelian = 100000;
   var kata = "Total pembelian anda "
